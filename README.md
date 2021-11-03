@@ -1,5 +1,4 @@
-# Java
-## 자바의 정석
+### 📌 자바의 정석
 
 #### 1. 자바를 시작하기 전에
 -  [1. 자바란?](https://github.com/ahnsoheee/Java/blob/main/Chapter1/1_Java.md)
