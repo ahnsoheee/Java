@@ -1,6 +1,10 @@
 # Java
 ## 자바의 정석
-- Chapter 1. 자바
-    - [자바를 시작하기 전에](https://github.com/ahnsoheee/Java/blob/main/Chapter1/Java.md)
-- Chapter 2. 변수
-    - 
+
+#### 1. 자바를 시작하기 전에
+-  [1. 자바란?](https://github.com/ahnsoheee/Java/blob/main/Chapter1/1_Java.md)
+- [2. JDK](https://github.com/ahnsoheee/Java/blob/main/Chapter1/2_JDK.md)
+- [3. 자바 프로그램](https://github.com/ahnsoheee/Java/blob/main/Chapter1/3_JavaProgram.md)
+
+#### 2. 변수
+- [변수와 상수]()
