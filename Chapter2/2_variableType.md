@@ -115,3 +115,30 @@
     // 문자열 + any type -> 문자열 + 문자열 -> 문자열
     // any type + 문자열 -> 문자열 + 문자열 -> 문자열
     ```
+
+### 3. 형식화된 출력 - printf()
+
+|||
+|---|---|
+|%b|boolean|
+|%d|10진수 integer|
+|%o|8진수|
+|%x, S|16진수|
+|%f|10진수 float|
+|%e, %E|지수형태표현|
+|%g|실수형 -  값을 간단하게 표현할 때|
+|%c|문자|
+|%s|문자열|
+
+
+### 화면에서 입력받기 - Scanner
+
+```java
+import java.util.*;
+
+Scanner scanner = new Scanner(System.in);
+```
+- 문자열 입력: nextLine()
+- 정수 입력: nextInt()
+- 실수 입력: nextFloat()
+-> nextLine()으로 입력받아서 변환하는 것이 더 낫다.
