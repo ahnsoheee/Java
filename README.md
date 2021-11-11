@@ -8,3 +8,6 @@
 2. 변수
     - [변수](https://github.com/ahnsoheee/Java/blob/main/Chapter2/1_variable.md)   
     - [변수의 타입](https://github.com/ahnsoheee/Java/blob/main/Chapter2/2_variableType.md)
+5. 배열
+    - [배열](https://github.com/ahnsoheee/Java/blob/main/Chapter5/1_Array.md)
+    - [String 배열]()
