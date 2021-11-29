@@ -10,4 +10,5 @@
     - [변수의 타입](https://github.com/ahnsoheee/Java/blob/main/Chapter2/2_variableType.md)
 5. 배열
     - [배열](https://github.com/ahnsoheee/Java/blob/main/Chapter5/1_Array.md)
-    - [String 배열]()
+    - [String 배열](https://github.com/ahnsoheee/Java/blob/main/Chapter5/2_StringArray.md)
+    - [다차원 배열](https://github.com/ahnsoheee/Java/blob/main/Chapter5/3_MultiDemensionalArray.md)
